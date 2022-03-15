@@ -14,7 +14,11 @@ NGS Data Analysis for WGS and RNASeq: Pipeline
   
   **Genome indexing** is the pre-processing technique that allows the aligner to compress the size of the genome and also make searching the genome faster for a query sequence within the genome by decreasing time/space and increasing the efficiency of the aligner. 
   
-  
+**Genome annotation** is the process of attaching biological information to sequences. It consists of three main steps: identifying portions of the genome that do not code for proteins, identifying elements on the genome, a process called gene prediction, and attaching biological information to these elements.
+
+1. Structural Annotation: Sequence Features and Gene Prediction
+2. Functional Annotation: Similarity Searches (BLAST) and Identification of Gene Clusters
+
 ## **Tools for** Analysis:
 ![ngstool](https://user-images.githubusercontent.com/97247515/155968414-0872cb0c-828b-4888-8e30-1d311b1d7da2.png)
 
