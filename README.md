@@ -3,7 +3,19 @@ NGS Data Analysis for WGS and RNASeq: Pipeline
 
   ![miRNA](https://user-images.githubusercontent.com/97247515/149810739-f0eaa3eb-6430-4538-8235-e82af3e912f5.jpg)
   
-## **Tools for** Analysis 
+  **In Quality Control**, the purpose of performing the **Read Quality Control** to understand your raw data, make informed decisions on how to handle it and maximise your chances of getting a good quality assembly.
+  
+  **Some of the important information of QC is:** 
+1. Read types: Will be important in setting maximum k-mer size value for assembly
+2. Number of reads: Gives you an idea of coverage
+3. GC content: High GC organisms don’t tend to assemble well and may have an uneven read coverage distribution.
+4. Presence of highly recurring k-mers: may point to contamination of reads with barcodes, adapter sequences etc.
+5. Presence of large numbers of N’s in reads: May point to poor quality sequencing run. You need to trim these reads to remove N’s.
+  
+  **Genome indexing** is the pre-processing technique that allows the aligner to compress the size of the genome and also make searching the genome faster for a query sequence within the genome by decreasing time/space and increasing the efficiency of the aligner. 
+  
+  
+## **Tools for** Analysis:
 ![ngstool](https://user-images.githubusercontent.com/97247515/155968414-0872cb0c-828b-4888-8e30-1d311b1d7da2.png)
 
 ## Genome Analysis: Overview
