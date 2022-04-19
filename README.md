@@ -1,5 +1,4 @@
-# NGS-Data-Analysis
-NGS Data Analysis for WGS and RNASeq: Pipeline
+   WGSeq: Pipeline
 
   ![miRNA](https://user-images.githubusercontent.com/97247515/149810739-f0eaa3eb-6430-4538-8235-e82af3e912f5.jpg)
   
