@@ -9,4 +9,4 @@
 ![Ge](https://user-images.githubusercontent.com/97247515/149814959-ca477ac1-1884-486f-8110-9215448cdb3e.png)
 
 [Fundamental concepts ](https://github.com/Mahendra687/Fundamental-concepts/blob/main/README.md) |
-[Pre-processing](https://github.com/Mahendra687/Pre-processing/blob/main/README.md) | [assemblers](https://en.wikipedia.org/wiki/De_novo_sequence_assemblers) | [Aligner](https://en.wikipedia.org/wiki/Bowtie_(sequence_analysis))
+[Pre-processing](https://github.com/Mahendra687/Pre-processing/blob/main/README.md) | [Assemblers](https://en.wikipedia.org/wiki/De_novo_sequence_assemblers) | [Aligner](https://en.wikipedia.org/wiki/Bowtie_(sequence_analysis))
